@@ -10,7 +10,7 @@ First, connect your **Metamask plugin to the Theta Mainnet** following the instr
 Next, clone this repo and install dependencies:
 
 ```
-git clone https://github.com/thetatoken/theta-metamask-demo
+git clone https://github.com/andrewlunde/theta-metamask-demo
 cd theta-metamask-demo
 npm install
 ```
