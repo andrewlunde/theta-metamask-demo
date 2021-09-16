@@ -1,5 +1,5 @@
 
-# Theta Metamask Demo
+# Theta Metamask Demo : Andrew Lunde Version
 
 A Theta-Metamask demo based on @jacobedawson's [tutorial](https://github.com/jacobedawson/connect-metamask-react-dapp), which showcases a working React app that will be able to connect to your MetaMask account, and read your address and TFuel balance. If you connect with multiple accounts the interface will change to reflect the active account.
 
