@@ -36,4 +36,24 @@ Execute the following command to launch the web client at http://localhost:3000
 npm start
 ```
 
+## Run React production server
+
+### 6079SmithW [George Orwell 1984 Telescreen Exercise](https://youtu.be/CCfW6HFP5cI?t=26)
+### [React Deployment](https://create-react-app.dev/docs/deployment/)
+
+```
+npm run-script build
+serve -s build -l 6079
+
+- Local:             http://localhost:6079
+- On Your Network:   http://192.168.1.84:6079
+- External Internet: http://70.251.209.207:6079
+```
+
 You should see the web page displays the TFuel balance in your Metamask plugin and the wallet address.
+
+## Other Resources
+```
+https://web3js.readthedocs.io/en/v1.5.2/index.html
+https://cryptozombies.io/en/lesson/6/chapter/1
+```
